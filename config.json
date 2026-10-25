@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "중앙학술정보관": {
+      "style": "glass",
+      "wall": "#5a5e63",
+      "glass": "#2e3b48",
+      "frame": "#4a4e54"
+    },
+    "600주년기념관": {
+      "style": "glass",
+      "wall": "#d3d7d4",
+      "glass": "#5f7f80",
+      "frame": "#c9cdca"
+    },
+    "법학관": {
+      "style": "glass",
+      "wall": "#9ca2a4",
+      "glass": "#5d8f9c",
+      "frame": "#82868a"
+    },
+    "퇴계인문관": {
+      "style": "brick",
+      "wall": "#7f6a63",
+      "glass": "#3a4046",
+      "frame": "#bdb5ad"
+    },
+    "호암관": {
+      "style": "ribbon",
+      "wall": "#8c716b",
+      "glass": "#3d4448",
+      "frame": "#626565"
+    },
+    "경영관": {
+      "style": "stone",
+      "wall": "#ecebe6",
+      "glass": "#45484a",
+      "frame": "#d8d6d0"
+    },
+    "수선관": {
+      "style": "ribbon",
+      "wall": "#eceae4",
+      "glass": "#6b9397",
+      "frame": "#a7c1c1"
+    },
+    "국제관": {
+      "style": "stone",
+      "wall": "#c9c8c5",
+      "glass": "#4f5a5a",
+      "frame": "#7a817e"
+    },
+    "다산경제관": {
+      "style": "brick",
+      "wall": "#8e7a74",
+      "glass": "#3b4148",
+      "frame": "#cfc9c2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
